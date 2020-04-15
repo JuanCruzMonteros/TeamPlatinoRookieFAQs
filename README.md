@@ -1,6 +1,5 @@
 # Team Platino Rookie FAQs
 ![banner](https://raw.githubusercontent.com/JuanCruzMonteros/TeamPlatinoRookieFAQs/master/tp-rookie%5B1%5D.png)
-![banner1](https://raw.githubusercontent.com/JuanCruzMonteros/TeamPlatinoRookieFAQs/tp-rookie%5B1%5D.png)
 
 ## Pasos a seguir
 
