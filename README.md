@@ -1,15 +1,14 @@
 # Team Platino Rookie FAQs
 ![banner](https://raw.githubusercontent.com/JuanCruzMonteros/TeamPlatinoRookieFAQs/master/tp-rookie%5B1%5D.png)
 
-## Pasos a seguir
+## Pasos a seguir para agregar contenido
 
-- Sólo visita el grupo de telegram y sugiere las pregunta y respuesta o generá un issues en Github.
+- Sólo visita el grupo de telegram para sugierir la pregunta y la respuesta o generá un issues en Github.
 
 ## FAQ
 
 ### Si preguntaste ¿Qué es ésto? ó ¿Qué tengo que hacer? y te mandaron aca...
-Mira todos los videos explicativos, revisa la FAQ y despues pregunta.
-Sugerencia: El excel esta en la tercera clase
+Mira todos los videos explicativos, revisa la FAQ y después pregunta.
 
 ### ¿Donde está el maldito excel?
 El excel que se emplea y que veis en los vídeos está en la descripción de la clase 3.
@@ -23,12 +22,12 @@ Si, la hay. Existen generadores de contenido
 - Otra alternativa es KeyPress
 
 ### Ubersuggest y ahrefs son pagas. ¿Hay alguna otra opción para hacer un estudio de palabras claves?
-- Opcion 1: [la página de la organización](https://cocolyze.com/)
-- Opcion 2: Existen addons para estudios de palabras claves como [keyword surfer](https://www.google.com/search?channel=trow2&client=firefox-b-d&q=Keyword+Surfer)
-- Opcion 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial y elimina la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
+- Opción 1: [la página de la organización](https://cocolyze.com/)
+- Opción 2: Existen addons para estudios de palabras claves como [keyword surfer](https://www.google.com/search?channel=trow2&client=firefox-b-d&q=Keyword+Surfer)
+- Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial y elimina la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
 
 ### ¿Adsense tarda más de 24 hs en validar mi sitio?
-Mis amores, el mundo sufre una pandemia, tambien afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
+Mis amores, el mundo sufre una pandemia, también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
 
 ### Esperé y no me llego
 Bueno ahora si pregunta en el grupo de telegram
