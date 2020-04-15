@@ -23,6 +23,7 @@ Visita [la página de la organización](https://support.google.com/google-ads/an
 Si, la hay. Existen generadores de contenido
 - [talktotransformer](https://talktotransformer.com/) utiliza IA para generar contenido
 - Otra alternativa es KeyPress
+Para evitar problemas con Adsense se recomienda crear el contenido o comprar el contenido redactado.
 
 ### Ubersuggest y ahrefs son pagas. ¿Hay alguna otra opción para hacer un estudio de palabras claves?
 - Opción 1: [Cocolyze](https://cocolyze.com/)
@@ -37,6 +38,8 @@ Evitar todo lo que tenga que ver con Servicios Financieros a menos que este aval
 Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
 Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
 
+### ¿ Se puede validar que mi contenido es original ?
+Tienes muchas opciones en el mercado. si "no encontraste" te dejo [este video](https://youtu.be/vP9-BvBb06s) de Chuiso
 
 ### Esperé y no me llego
 Bueno ahora si pregunta en el grupo de telegram
