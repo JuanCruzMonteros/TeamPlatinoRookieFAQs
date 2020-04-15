@@ -30,7 +30,7 @@ Si, la hay. Existen generadores de contenido
 - Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial y elimina la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
 
 ### ¿Adsense tarda más de 24 hs en validar mi sitio?
-Mis amores, el mundo sufre una pandemia, también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
+Mis amores, el mundo sufre una pandemia, esto también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
 
 ### Esperé y no me llego
 Bueno ahora si pregunta en el grupo de telegram
