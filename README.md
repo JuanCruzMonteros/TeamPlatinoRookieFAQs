@@ -14,7 +14,7 @@ Mira todos los videos explicativos, revisa la FAQ y después pregunta.
 El link es [este](https://t.me/joinchat/GzlF9hyQ92jDybhxole0rg)
 
 ### ¿Donde está el maldito excel?
-El excel que se emplea y que veis en los vídeos está en la descripción de la clase 3.
+El excel que se emplea y que veis en los vídeos está en la descripción de la [clase 3](https://rookie.teamplatino.com/clase/como-encontrar-palabras-clave-rentables/) o directamente [Aquí](https://mega.nz/#!jBwkEAhI!Xiq5Jnkej6NLNDN5ixgkxJhMRanMX1kNIZcVhdTntTQ).
 
 ### ¿Por qué si el CPC es elevado monetizo una cifra menor?
 Visita [la página de la organización](https://support.google.com/google-ads/answer/6297?hl=es-419)
