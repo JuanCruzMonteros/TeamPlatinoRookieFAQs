@@ -1,7 +1,5 @@
 # Team Platino Rookie FAQs
-![banner](https://raw.githubusercontent.com/unamfi/Get-your-invite/master/Banner.png)
-
-# UNAM FI
+![banner](/Banner.png)
 
 La organización Open Source de la Facultad de Ingeniería esta recibiendo a nuevos miembros.
 
