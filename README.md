@@ -10,6 +10,9 @@
 ### Si preguntaste ¿Qué es ésto? ó ¿Qué tengo que hacer? y te mandaron aca...
 Mira todos los videos explicativos, revisa la FAQ y después pregunta.
 
+### ¿Dónde está el enlace a Telegram?
+El link es [este](https://t.me/joinchat/GzlF9hyQ92jDybhxole0rg)
+
 ### ¿Donde está el maldito excel?
 El excel que se emplea y que veis en los vídeos está en la descripción de la clase 3.
 
