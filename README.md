@@ -1,7 +1,5 @@
 # Team Platino Rookie FAQs
-![banner](/Banner.png)
-
-La organización Open Source de la Facultad de Ingeniería esta recibiendo a nuevos miembros.
+![banner](https://raw.githubusercontent.com/JuanCruzMonteros/TeamPlatinoRookieFAQs/blob/master/tp-rookie%5B1%5D.png)
 
 ## Pasos a seguir
 
