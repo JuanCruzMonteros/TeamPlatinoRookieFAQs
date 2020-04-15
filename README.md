@@ -28,7 +28,7 @@ Para evitar problemas con Adsense se recomienda crear el contenido o comprar el 
 ### Ubersuggest y ahrefs son pagas. ¿Hay alguna otra opción para hacer un estudio de palabras claves?
 - Opción 1: [Cocolyze](https://cocolyze.com/)
 - Opción 2: Existen addons para estudios de palabras claves como [keyword surfer](https://www.google.com/search?channel=trow2&client=firefox-b-d&q=Keyword+Surfer)
-- Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial y elimina la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
+- Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial de la aplicación paga, te desadherir del trial pagado y eliminas la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
 
 ### ¿Adsense tarda más de 24 hs en validar mi sitio?
 Mis amores, el mundo sufre una pandemia, esto también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
