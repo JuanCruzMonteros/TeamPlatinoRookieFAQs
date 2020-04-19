@@ -3,12 +3,12 @@
 
 ## Pasos a seguir para agregar contenido
 
-- Sólo visita el grupo de telegram para sugierir la pregunta y la respuesta o generá un issues en Github.
+- Sólo visita el grupo de telegram para sugierir la pregunta y respuesta ó generá un issues en Github.
 
 ## FAQ
 
 ### Si preguntaste ¿Qué es ésto? ó ¿Qué tengo que hacer? y te mandaron aca...
-Mira todos los videos explicativos, revisa la FAQ y después pregunta.
+Mira todos los videos explicativos, revisa la FAQ y después preguntá.
 
 ### ¿Dónde está el enlace a Telegram?
 El link es [este](https://t.me/joinchat/GzlF9hyQ92jDybhxole0rg)
@@ -54,10 +54,10 @@ Tienes muchas opciones en el mercado. si "no encontraste" te dejo [este video](h
 [Éste](http://plagiarisma.net/es/) es otro ejemplo
 
 ### ¿Buscas redactores?
-En telegram se ofrecieron varios:
+En telegram se ofrecieron varios. Por ejemplo:
 @HagamosGestioneIngenieria
 
-### ¿Si te interesa redactar, mandame un mensaje privado que te agrego a la lista?
+### Si te interesa redactar, mandame un mensaje privado que te agrego a la lista. Somos 20 mil, no uses tu cuenta normal que hay riesgo a SPAM.
 
 ### Hablemos de Interlinking ¿Manual o automático? , Luego del debate en telegram se llego a la siguiente conclusion:
 Se cree que es mejor interlinking manual viendo search console y viendo a que apuntar.
@@ -70,6 +70,7 @@ La home es la más importante, la categoría sigue a la home y la entrada es la 
 Cuando tú miras la competencia tienes que ver qué tipo de página está posicionando si es una home,es una categoría o es una entrada Y según lo que tengan ellos le puedes atacar.
 
 Los buscadores han prescindido de las técnicas usadas con anterioridad : clasificación manual de dominios por categorías , generación de contenido propio o diseño de portales multitemáticos. Basando su estrategia en proporcionar al usuario acceso a información de terceros de forma automatizada haciendo uso eficiente de los recursos computacionales.  [ver](https://books.google.com.ar/books?id=xs0y-phCKrsC&pg=PA11&lpg=PA11&dq=portales+multitematicos&source=bl&ots=S5J-pOjRJU&sig=ACfU3U3sW4jLv-P_05tQAhRUclIxc_D5XA&hl=es&sa=X&ved=2ahUKEwiUyIHppPPoAhVcKrkGHUJMCQcQ6AEwAHoECAsQLA#v=onepage&q=portales%20multitematicos&f=false)
+
 Aunque los portales multitematicos tienen mucha autoridad suelen tener nada más que páginas por lo cual si atacás una kW con una categoría o con una home al final te acabas llevando una posición.
 google considera que le das tú más valor a tu artículo que la web multitematica( Por ejemplo malavida )
 Entonces ya con esto tú planeas una estrategia
