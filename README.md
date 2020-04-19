@@ -47,7 +47,7 @@ Para evitar problemas con Adsense se recomienda crear el contenido o comprar el 
 ### Ubersuggest y ahrefs son pagas. ¿Hay alguna otra opción para hacer un estudio de palabras claves?
 - Opción 1: [Cocolyze](https://cocolyze.com/)
 - Opción 2: Existen addons para estudios de palabras claves como [keyword surfer](https://www.google.com/search?channel=trow2&client=firefox-b-d&q=Keyword+Surfer)
-- Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial de la aplicación paga, te desadherir del trial pagado y eliminas la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
+- Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial de la aplicación paga, te desadheris del trial pagado y eliminas la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
 
 ### ¿ Se puede validar que mi contenido es original ?
 Tienes muchas opciones en el mercado. si "no encontraste" te dejo [este video](https://youtu.be/vP9-BvBb06s) de Chuiso
