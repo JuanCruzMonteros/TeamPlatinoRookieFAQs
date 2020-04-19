@@ -61,7 +61,7 @@ A ver la estructura de la web tiene tres niveles:
   - home
   - categorías
   - entrada
- A ésta subdivision
+ 
 La home es la más importante, la categoría sigue a la home y la entrada es la que menos valor tiene.
 Cuando tú miras la competencia tienes que ver qué tipo de página está posicionando si es una home,es una categoría o es una entrada Y según lo que tengan ellos le puedes atacar.
 
