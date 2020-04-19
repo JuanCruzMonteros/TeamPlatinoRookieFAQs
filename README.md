@@ -23,6 +23,9 @@ Leer [soporte Adsense](https://support.google.com/webmasters/answer/9044175?visi
 ### ¿Adsense tarda más de 24 hs en validar mi sitio?
 Mis amores, el mundo sufre una pandemia, esto también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
 
+### Esperé y no me llego
+Bueno ahora si pregunta en el grupo de telegram
+
 ### ¿Puedo utilizar Adsense junto a criptomonedas o algun servicio financiero?
 Evitar todo lo que tenga que ver con Servicios Financieros a menos que este avalado y cumplas con sus Políticas que deben ser bien estrictas si solo eres un lector. YA! NO Moneticen a menos con ADSENSE esos Nichos.
 Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
@@ -76,9 +79,6 @@ google considera que le das tú más valor a tu artículo que la web multitemati
 Entonces ya con esto tú planeas una estrategia
 Si eres un micro nicho vas a posicionar la home y dará igual que sean pocos kw o que sean pocas páginas, todo lo que crees va a ir apuntando a la home ya que es es la que tiene que llevar la fuerza.
 
-
-### Esperé y no me llego
-Bueno ahora si pregunta en el grupo de telegram
 
 ### Tengo más dudas, ¿qué puedo hacer?
 Levanta un issue en este repositorio con tu pregunta ó  pregunta en el grupo de telegram. 
