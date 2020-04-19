@@ -24,6 +24,7 @@ Si, la hay. Existen generadores de contenido
 - [talktotransformer](https://talktotransformer.com/) utiliza IA para generar contenido
 - Otra alternativa es KeyPress
 Para evitar problemas con Adsense se recomienda crear el contenido o comprar el contenido redactado.
+- Otra opción es contratar redactores, ver más abajo.
 
 ### Ubersuggest y ahrefs son pagas. ¿Hay alguna otra opción para hacer un estudio de palabras claves?
 - Opción 1: [Cocolyze](https://cocolyze.com/)
@@ -40,6 +41,30 @@ Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
 
 ### ¿ Se puede validar que mi contenido es original ?
 Tienes muchas opciones en el mercado. si "no encontraste" te dejo [este video](https://youtu.be/vP9-BvBb06s) de Chuiso
+[Éste](http://plagiarisma.net/es/) es otro ejemplo
+
+### ¿Buscas redactores?
+En telegram se ofrecieron varios:
+@HagamosGestioneIngenieria
+
+### ¿Si te interesa redactar, mandame un mensaje privado que te agrego a la lista?
+
+### Hablemos de Interlinking ¿Manual o automático? , Luego del debate en telegram se llego a la siguiente conclusion:
+Se cree que es mejor interlinking manual viendo search console y viendo a que apuntar.
+A ver la estructura de la web tiene tres niveles:
+  - home
+  - categorías
+  - entrada
+ A ésta subdivision
+La home es la más importante, la categoría sigue a la home y la entrada es la que menos valor tiene.
+Cuando tú miras la competencia tienes que ver qué tipo de página está posicionando si es una home,es una categoría o es una entrada Y según lo que tengan ellos le puedes atacar.
+
+Los buscadores han prescindido de las técnicas usadas con anterioridad : clasificación manual de dominios por categorías , generación de contenido propio o diseño de portales multitemáticos. Basando su estrategia en proporcionar al usuario acceso a información de terceros de forma automatizada haciendo uso eficiente de los recursos computacionales.  [ver](https://books.google.com.ar/books?id=xs0y-phCKrsC&pg=PA11&lpg=PA11&dq=portales+multitematicos&source=bl&ots=S5J-pOjRJU&sig=ACfU3U3sW4jLv-P_05tQAhRUclIxc_D5XA&hl=es&sa=X&ved=2ahUKEwiUyIHppPPoAhVcKrkGHUJMCQcQ6AEwAHoECAsQLA#v=onepage&q=portales%20multitematicos&f=false)
+Aunque los portales multitematicos tienen mucha autoridad suelen tener nada más que páginas por lo cual si atacás una kW con una categoría o con una home al final te acabas llevando una posición.
+google considera que le das tú más valor a tu artículo que la web multitematica( Por ejemplo malavida )
+Entonces ya con esto tú planeas una estrategia
+Si eres un micro nicho vas a posicionar la home y dará igual que sean pocos kw o que sean pocas páginas, todo lo que crees va a ir apuntando a la home ya que es es la que tiene que llevar la fuerza.
+
 
 ### Esperé y no me llego
 Bueno ahora si pregunta en el grupo de telegram
