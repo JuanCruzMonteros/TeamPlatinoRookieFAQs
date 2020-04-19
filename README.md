@@ -16,6 +16,18 @@ El link es [este](https://t.me/joinchat/GzlF9hyQ92jDybhxole0rg)
 ### ¿Donde está el maldito excel?
 El excel que se emplea y que veis en los vídeos está en la descripción de la [clase 3](https://rookie.teamplatino.com/clase/como-encontrar-palabras-clave-rentables/) o directamente [Aquí](https://mega.nz/#!jBwkEAhI!Xiq5Jnkej6NLNDN5ixgkxJhMRanMX1kNIZcVhdTntTQ).
 
+### Google no me activa adsense, dice que tengo poco contenido o de poco valor
+Según se especifica en las políticas del programa, no se mostrarán al usuario anuncios de Google en páginas o aplicaciones que tengan poco o ningún valor o que incluyan demasiada publicidad. Esto incluye páginas o aplicaciones que copian o reescriben el contenido de otras fuentes sin añadirle ningún valor. Consulta las directrices de calidad para webmasters de Google de contenido escaso que tenga poco o ningún valor para más información.
+Leer [soporte Adsense](https://support.google.com/webmasters/answer/9044175?visit_id=637228605217667603-1048465864&rd=1#thin-content)
+
+### ¿Adsense tarda más de 24 hs en validar mi sitio?
+Mis amores, el mundo sufre una pandemia, esto también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
+
+### ¿Puedo utilizar Adsense junto a criptomonedas o algun servicio financiero?
+Evitar todo lo que tenga que ver con Servicios Financieros a menos que este avalado y cumplas con sus Políticas que deben ser bien estrictas si solo eres un lector. YA! NO Moneticen a menos con ADSENSE esos Nichos.
+Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
+Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
+
 ### ¿Por qué si el CPC es elevado monetizo una cifra menor?
 Visita [la página de la organización](https://support.google.com/google-ads/answer/6297?hl=es-419)
 
@@ -36,14 +48,6 @@ Para evitar problemas con Adsense se recomienda crear el contenido o comprar el 
 - Opción 1: [Cocolyze](https://cocolyze.com/)
 - Opción 2: Existen addons para estudios de palabras claves como [keyword surfer](https://www.google.com/search?channel=trow2&client=firefox-b-d&q=Keyword+Surfer)
 - Opción 3: Crea una tarjeta virtual segun tu país( Por ejemplo: Bnext, Revolut o N26) y una cuenta nueva, activa el trial de la aplicación paga, te desadherir del trial pagado y eliminas la tarjeta virtual. Por 7 días tendrás acceso completo a la herramienta.
-
-### ¿Adsense tarda más de 24 hs en validar mi sitio?
-Mis amores, el mundo sufre una pandemia, esto también afecta a los controladores de contenido y validadores de sitios. Esperen un par de días que les va a llegar.
-
-### ¿Puedo utilizar Adsense junto a criptomonedas o algun servicio financiero?
-Evitar todo lo que tenga que ver con Servicios Financieros a menos que este avalado y cumplas con sus Políticas que deben ser bien estrictas si solo eres un lector. YA! NO Moneticen a menos con ADSENSE esos Nichos.
-Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
-Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
 
 ### ¿ Se puede validar que mi contenido es original ?
 Tienes muchas opciones en el mercado. si "no encontraste" te dejo [este video](https://youtu.be/vP9-BvBb06s) de Chuiso
