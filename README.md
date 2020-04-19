@@ -79,7 +79,8 @@ Aunque los portales multitematicos tienen mucha autoridad suelen tener nada más
 google considera que le das tú más valor a tu artículo que la web multitematica( Por ejemplo malavida )
 Entonces ya con esto tú planeas una estrategia
 Si eres un micro nicho vas a posicionar la home y dará igual que sean pocos kw o que sean pocas páginas, todo lo que crees va a ir apuntando a la home ya que es es la que tiene que llevar la fuerza.
-
+Nota:
+Lo que dice chuiso es que si es un micro nicho, mejor usar una paginas y si es una web tematica hay que crearla en entradas.
 
 ### Tengo más dudas, ¿qué puedo hacer?
 Levanta un issue en este repositorio con tu pregunta ó  pregunta en el grupo de telegram. 
