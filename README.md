@@ -20,8 +20,6 @@ El excel que se emplea y que veis en los vídeos está en la descripción de la 
 Visita [la página de la organización](https://support.google.com/google-ads/answer/6297?hl=es-419)
 
 ### ¿Por qué vale más el CPC alto con pocas busquedas que el bajo con muchas busquedas?
-Visita [la página de la organización](https://support.google.com/google-ads/answer/6297?hl=es-419)
-
 Si el CPC es bajo y tiene muchas búsquedas, por ejemplo cada clic será 0.1 más o menos. Si cada 100 visitas se hacen clic entre 1 y 2 visitantes, 0.20 céntimos(o cualquier moneda) cada 100 visitantes. Siguiendo la misma lógica, cada 1000 tendrás 2€ y
 cada 10.000 tendrás 20€.
 Eso es aproximado con ese cpc, luego podrá varian en el ctr del nicho en cuestión, pero no creo que las cifras se muevan mucho de ahí. Si centras en las que menos competencia tienen, te podrías sacar "fácil" de 1 a 3€ al día.
