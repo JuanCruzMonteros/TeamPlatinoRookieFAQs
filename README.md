@@ -3,7 +3,7 @@
 
 ## Pasos a seguir para agregar contenido
 
-- Sólo visita el grupo de telegram para sugierir la pregunta y respuesta ó generá un issues en Github.
+- Sólo visita el grupo de telegram para sugirir la pregunta y respuesta ó generá un issues en Github.
 
 ## FAQ
 
