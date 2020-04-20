@@ -26,10 +26,18 @@ Mis amores, el mundo sufre una pandemia, esto también afecta a los controladore
 ### Esperé y no me llego
 Bueno ahora si pregunta en el grupo de telegram
 
-### ¿Puedo utilizar Adsense junto a criptomonedas o algun servicio financiero?
-Evitar todo lo que tenga que ver con Servicios Financieros a menos que este avalado y cumplas con sus Políticas que deben ser bien estrictas si solo eres un lector. YA! NO Moneticen a menos con ADSENSE esos Nichos.
-Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
-Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
+### Adsense, ¿Penalizan adsense por generar tráfico de redes sociales masivo / Fan page / grupos de redes / telegram, etc?
+Es muy normal ver cuentas que tienen problemas por el tráfico de redes sociales, que no es algo que no esté permitido, sino que lo que suele ocurrir es que no siempre se promocionan los contenidos del sitio de manera correcta.
+Las estrategias "BlackHat" en este sentido son baneables/penalizables. 
+Por ejemplo:
+ - Hay sitios que compran páginas de Facebook en las que tenían miles de seguidores y luego van cambiando el contenido, pero eso no está permitido en las políticas.
+ - El uso de imágenes llamativas o títulos engañosos como el clásico "No te imaginarás lo que ha pasado", todo con la finalidad de que accedan a la web y conseguir así clics e impresiones. (Uno de los baneos/penalizaciones más comunes es esta razón)
+ - Hay sitios que pagan por tráfico, otra cosa que no está permitida. Y ésto va desde pagar por salir en una historia en Instagram o que agreguen un enlace en un grupo de Facebook. (Ésto es difícil de controlar, pero reportable al soporte).
+ 
+Cierro con una nota: Cada nicho, temática o Keyword tiene un promedio de retención, de volumen de búsqueda y de tráfico en redes sociales y Google lo sabe. Como también sabe reconocer si algo es "tendencia" o es "sospechoso". **Si lo hacen bien y legal no los van a tener problemas.**
+ 
+
+
 
 ### ¿Por qué si el CPC es elevado monetizo una cifra menor?
 Visita [la página de la organización](https://support.google.com/google-ads/answer/6297?hl=es-419)
@@ -83,6 +91,11 @@ Entonces ya con esto tú planeas una estrategia
 Si eres un micro nicho vas a posicionar la home y dará igual que sean pocos kw o que sean pocas páginas, todo lo que crees va a ir apuntando a la home ya que es es la que tiene que llevar la fuerza.
 Nota:
 Lo que dice chuiso es que si es un micro nicho, mejor usar una paginas y si es una web tematica hay que crearla en entradas.
+
+### ¿Puedo utilizar Adsense junto a criptomonedas o algun servicio financiero?
+Evitar todo lo que tenga que ver con Servicios Financieros a menos que este avalado y cumplas con sus Políticas que deben ser bien estrictas si solo eres un lector. YA! NO Moneticen a menos con ADSENSE esos Nichos.
+Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
+Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
 
 ### Tengo más dudas, ¿qué puedo hacer?
 Levanta un issue en este repositorio con tu pregunta ó  pregunta en el grupo de telegram. 
