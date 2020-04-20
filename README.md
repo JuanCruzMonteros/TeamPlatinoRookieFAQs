@@ -58,9 +58,9 @@ Tienes muchas opciones en el mercado. si "no encontraste" te dejo [este video](h
 
 ### ¿Buscas redactores?
 En telegram se ofrecieron varios. Los ordeno por orden de llegada:
-Juan Jose Clemenza: @HagamosGestioneIngenieria
-Erica: @bluejazmine
-Juan : @jmapac (Trabajamos content seo y textos para cualquier tipo de producto o web.)
+ - Juan Jose Clemenza: @HagamosGestioneIngenieria
+ - Erica: @bluejazmine
+ - Juan : @jmapac (Trabajamos content seo y textos para cualquier tipo de producto o web.)
 
 
 ### Si te interesa redactar, mandame un mensaje privado que te agrego a la lista. Somos 20 mil, no uses tu cuenta normal que hay riesgo a SPAM.
