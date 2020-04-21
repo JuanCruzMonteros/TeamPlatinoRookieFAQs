@@ -3,7 +3,7 @@
 
 ## Pasos a seguir para agregar contenido
 
-- Sólo visita el grupo de telegram para sugirir la pregunta y respuesta ó generá un issues en Github.
+- Sólo visita el grupo de telegram para sugirir la pregunta y respuesta ó generá un issues en Github. Si ves en telegram una pregunta que consideres que hay que agregar aquí utiliza el #DudaRookie señalandola y la agregaremos
 
 ## FAQ
 
