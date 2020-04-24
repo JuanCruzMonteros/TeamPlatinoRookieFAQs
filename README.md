@@ -7,7 +7,7 @@
 
 ## FAQ
 
-### Si preguntaste ¿Qué es ésto? ó ¿Qué tengo que hacer? y te mandaron aca...
+### Si preguntaste ¿Qué es ésto? ó ¿Qué tengo que hacer? y te mandaron acá...
 Mira todos los videos explicativos, revisa la FAQ y después preguntá.
 
 ### ¿Dónde está el enlace a Telegram?
