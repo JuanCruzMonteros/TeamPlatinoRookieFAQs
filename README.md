@@ -97,5 +97,9 @@ Evitar todo lo que tenga que ver con Servicios Financieros a menos que este aval
 Leer [soporte Adsense](https://support.google.com/adspolicy/answer/2464998?hl=es-419)
 Leer EAT y ver [Video de Chuiso YMYL](https://youtu.be/cJfsgH--umY)
 
+### ¿ Si quiero Geolocalizar mi web, como debería hacer ?
+Si vas a hacer SEO, amazon afiliados o adsense, no recomiendo que geolocalices. En cambio, si buscas hacer un Ecommerce en una ciudad especifica o algo parecido, entonces hazlo.
+Dicho eso, empecemos: con un dominio geolocalizado google ya entiende para donde va y si además en las metas remarcas la ciudad o algo aún mejor, en el Search Console puedes definir a que ciudades o países va dirigido, pero igualment no me cerraria en focalizarlo tanto, nunca se sabe de donde puede venir la siguiente venta.
+
 ### Tengo más dudas, ¿qué puedo hacer?
 Levanta un issue en este repositorio con tu pregunta ó  pregunta en el grupo de telegram. 
